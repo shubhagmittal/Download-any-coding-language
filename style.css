@@ -1,0 +1,39 @@
+body{
+    background-color:beige;
+}
+#firstheading{
+    color: brown;
+}
+#yes{
+    color:brown;
+    font-size:40px
+}
+table{
+    background-color:lightslategray;
+    width:786px;
+    border: 2px;
+    border-color: black;
+    border-style: dashed;
+}
+p{
+    font-size:large;
+}
+.one{
+    font-size:large;
+}
+#dos{
+    font-size:larger;
+    font-weight: bold;
+    height: 50px;
+    width: 300px;
+    background-color:cyan;
+    border-radius: 5px;
+}
+#tcr{
+    font-size:larger;
+    font-weight: bold;
+    height: 100px;
+    width: 300px;
+    background-color:cyan;
+    border-radius: 5px;
+}
